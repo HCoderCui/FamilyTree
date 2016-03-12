@@ -8,14 +8,17 @@
 先人伟迹等等。
 现有功能：
 1.添加成员：父母、兄弟、姐妹、配偶、孩子。 
+
 <img src="http://7xr4wt.com1.z0.glb.clouddn.com/Family%20Tree1.PNG" alt=""/>
 <img src="http://7xr4wt.com1.z0.glb.clouddn.com/Family%20Tree2.PNG" alt=""/>
 <img src="http://7xr4wt.com1.z0.glb.clouddn.com/Family%20Tree3.PNG" alt=""/>
 
 2. 邀请家谱成员，扩大家族圈
+
 <img src="http://7xr4wt.com1.z0.glb.clouddn.com/Family%20Tree4.PNG" alt=""/>
 
 后续功能：
-1.	家族成员管理模块：管理所有成员的个人信息，包括修改权限、信息整理和同步。
-2.	家族圈活动模块：开发线上小活动，促进圈内成员互动，而不仅仅局限于聊天和发说说。
-3.	基于数据挖掘的家族圈内资讯推荐，包括生活的吃穿住行，周边感兴趣的人事等等。
+
+1. 家族成员管理模块：管理所有成员的个人信息，包括修改权限、信息整理和同步。
+2. 家族圈活动模块：开发线上小活动，促进圈内成员互动，而不仅仅局限于聊天和发说说。
+3. 基于数据挖掘的家族圈内资讯推荐，包括生活的吃穿住行，周边感兴趣的人事等等。
